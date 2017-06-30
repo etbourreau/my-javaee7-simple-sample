@@ -21,6 +21,7 @@ public class Person {
     }
 
     public void setName(String name) {
+		//why
         this.name = name;
     }
 
