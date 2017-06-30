@@ -10,7 +10,7 @@ import javax.ws.rs.Produces;
 //@RequestScoped
 @Path("persons")
 public class PersonResource {
-
+	//hotfix branch
     @Inject
     PersonDatabase database;
 
